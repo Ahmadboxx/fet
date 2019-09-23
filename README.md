@@ -6,6 +6,13 @@ with all my appreciation
 
 I'm explaining Growth mindset in the following :
 
+you can develope your ability by hard working which will improve your talents also,
+
+for this you have to ignore fear and don't fear from challenges and looking forward 
+
+you can sense the difficulty that is ahead of the student which it should make him better and stronger to face that challenges.
+ reminders to my self to keep in a growth mindset:
+ 
 1-No pain = no gain
 
 2-Ignore criticism
@@ -17,6 +24,18 @@ you can make **bold** word
 and *Italic* with markdown this is the change
 
 and even link to https://Google.com
+ 
+ To make italic word you do the following  *Italic*
+
+if it wrap in backticks `Hello`
+
+if in highlighting
+
+
+```
+psychologist
+```
+
  
  and upload picture 
  
