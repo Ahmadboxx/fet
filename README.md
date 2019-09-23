@@ -23,7 +23,7 @@ you can make **bold** word
 
 and *Italic* with markdown this is the change
 
-and even link to https://Google.com
+and even link to https://www.atlassian.com/blog/inside-atlassian/growth-mindset
  
  To make italic word you do the following  *Italic*
 
