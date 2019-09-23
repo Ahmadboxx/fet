@@ -13,7 +13,7 @@ I'm explaining Growth mindset in the following :
  
 you can make **bold** word
 
-and *Italic* with markdown
+and *Italic* with markdown this is the change
 
 and even link to https://Google.com
  
